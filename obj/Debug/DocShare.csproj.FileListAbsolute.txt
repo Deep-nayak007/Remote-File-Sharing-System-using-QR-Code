@@ -1,0 +1,374 @@
+C:\Users\vinit\source\repos\DocShare\bin\DocShare.dll.config
+C:\Users\vinit\source\repos\DocShare\bin\DocShare.dll
+C:\Users\vinit\source\repos\DocShare\bin\DocShare.pdb
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\csc.exe
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\csc.exe.config
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\csc.rsp
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\csi.exe
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\csi.exe.config
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\csi.rsp
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.AppContext.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Console.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.IO.Compression.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Net.Http.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.ValueTuple.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\vbc.exe
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\vbc.exe.config
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\vbc.rsp
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\VBCSCompiler.exe
+C:\Users\vinit\source\repos\DocShare\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vinit\source\repos\DocShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vinit\source\repos\DocShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vinit\source\repos\DocShare\obj\Debug\DocShare.csproj.AssemblyReference.cache
+C:\Users\vinit\source\repos\DocShare\obj\Debug\DocShare.csproj.CoreCompileInputs.cache
+C:\Users\vinit\source\repos\DocShare\obj\Debug\DocShare.csproj.CopyComplete
+C:\Users\vinit\source\repos\DocShare\obj\Debug\DocShare.dll
+C:\Users\vinit\source\repos\DocShare\obj\Debug\DocShare.pdb
+E:\MVC\DocShare\bin\DocShare.dll.config
+E:\MVC\DocShare\bin\DocShare.dll
+E:\MVC\DocShare\bin\DocShare.pdb
+E:\MVC\DocShare\bin\roslyn\csc.exe
+E:\MVC\DocShare\bin\roslyn\csc.exe.config
+E:\MVC\DocShare\bin\roslyn\csc.rsp
+E:\MVC\DocShare\bin\roslyn\csi.exe
+E:\MVC\DocShare\bin\roslyn\csi.exe.config
+E:\MVC\DocShare\bin\roslyn\csi.rsp
+E:\MVC\DocShare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVC\DocShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVC\DocShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVC\DocShare\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVC\DocShare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVC\DocShare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVC\DocShare\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVC\DocShare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVC\DocShare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVC\DocShare\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVC\DocShare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVC\DocShare\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MVC\DocShare\bin\roslyn\System.AppContext.dll
+E:\MVC\DocShare\bin\roslyn\System.Collections.Immutable.dll
+E:\MVC\DocShare\bin\roslyn\System.Console.dll
+E:\MVC\DocShare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MVC\DocShare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVC\DocShare\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVC\DocShare\bin\roslyn\System.Globalization.Calendars.dll
+E:\MVC\DocShare\bin\roslyn\System.IO.Compression.dll
+E:\MVC\DocShare\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MVC\DocShare\bin\roslyn\System.IO.FileSystem.dll
+E:\MVC\DocShare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVC\DocShare\bin\roslyn\System.Net.Http.dll
+E:\MVC\DocShare\bin\roslyn\System.Net.Sockets.dll
+E:\MVC\DocShare\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVC\DocShare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MVC\DocShare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVC\DocShare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVC\DocShare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVC\DocShare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVC\DocShare\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVC\DocShare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MVC\DocShare\bin\roslyn\System.ValueTuple.dll
+E:\MVC\DocShare\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVC\DocShare\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVC\DocShare\bin\roslyn\System.Xml.XPath.dll
+E:\MVC\DocShare\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVC\DocShare\bin\roslyn\vbc.exe
+E:\MVC\DocShare\bin\roslyn\vbc.exe.config
+E:\MVC\DocShare\bin\roslyn\vbc.rsp
+E:\MVC\DocShare\bin\roslyn\VBCSCompiler.exe
+E:\MVC\DocShare\bin\roslyn\VBCSCompiler.exe.config
+E:\MVC\DocShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVC\DocShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVC\DocShare\obj\Debug\DocShare.csproj.AssemblyReference.cache
+E:\MVC\DocShare\obj\Debug\DocShare.csproj.CoreCompileInputs.cache
+E:\MVC\DocShare\obj\Debug\DocShare.csproj.CopyComplete
+E:\MVC\DocShare\obj\Debug\DocShare.dll
+E:\MVC\DocShare\obj\Debug\DocShare.pdb
+E:\MVC\DocShare\bin\zxing.dll
+E:\MVC\DocShare\bin\zxing.presentation.dll
+E:\MVC\DocShare\bin\zxing.xml
+E:\MVC\DocShare\bin\zxing.presentation.xml
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\DocShare.dll.config
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\DocShare.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\DocShare.pdb
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\csc.exe
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\csc.exe.config
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\csc.rsp
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\csi.exe
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\csi.exe.config
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\csi.rsp
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.AppContext.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Console.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.IO.Compression.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Net.Http.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.ValueTuple.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\vbc.exe
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\vbc.exe.config
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\vbc.rsp
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\VBCSCompiler.exe
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\zxing.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\zxing.presentation.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\zxing.xml
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\zxing.presentation.xml
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\obj\Debug\DocShare.csproj.AssemblyReference.cache
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\obj\Debug\DocShare.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\obj\Debug\DocShare.csproj.CopyComplete
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\obj\Debug\DocShare.dll
+C:\Users\sandhya\Downloads\New folder\DocShare\DocShare\obj\Debug\DocShare.pdb
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\DocShare.dll.config
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\DocShare.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\DocShare.pdb
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\csc.exe
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\csc.exe.config
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\csc.rsp
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\csi.exe
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\csi.exe.config
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\csi.rsp
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.AppContext.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Console.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.IO.Compression.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Net.Http.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.ValueTuple.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\vbc.exe
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\vbc.exe.config
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\vbc.rsp
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\VBCSCompiler.exe
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\zxing.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\zxing.presentation.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\zxing.xml
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\zxing.presentation.xml
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\obj\Debug\DocShare.csproj.AssemblyReference.cache
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\obj\Debug\DocShare.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\obj\Debug\DocShare.csproj.CopyComplete
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\obj\Debug\DocShare.dll
+C:\Users\sandhya\Desktop\DocShare\DocShare\DocShare\obj\Debug\DocShare.pdb
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\DocShare.dll.config
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\DocShare.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\DocShare.pdb
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\csc.exe
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\csc.exe.config
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\csc.rsp
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\csi.exe
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\csi.exe.config
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\csi.rsp
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.AppContext.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Collections.Immutable.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Console.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Globalization.Calendars.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.IO.Compression.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.IO.FileSystem.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Net.Http.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Net.Sockets.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.ValueTuple.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Xml.XPath.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\vbc.exe
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\vbc.exe.config
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\vbc.rsp
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\VBCSCompiler.exe
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\roslyn\VBCSCompiler.exe.config
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\zxing.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\zxing.presentation.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\zxing.xml
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\zxing.presentation.xml
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\obj\Debug\DocShare.csproj.AssemblyReference.cache
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\obj\Debug\DocShare.csproj.CoreCompileInputs.cache
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\obj\Debug\DocShare.csproj.CopyComplete
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\obj\Debug\DocShare.dll
+C:\Professors Academy\Academic Project Work 2022\DocShare (4)\DocShare\DocShare\obj\Debug\DocShare.pdb
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\DocShare.dll.config
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\DocShare.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\DocShare.pdb
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\csc.exe
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\csc.exe.config
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\csc.rsp
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\csi.exe
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\csi.exe.config
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\csi.rsp
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.AppContext.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Console.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.IO.Compression.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Net.Http.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.ValueTuple.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\vbc.exe
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\vbc.exe.config
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\vbc.rsp
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\zxing.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\zxing.presentation.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\zxing.xml
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\zxing.presentation.xml
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\obj\Debug\DocShare.csproj.AssemblyReference.cache
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\obj\Debug\DocShare.csproj.CoreCompileInputs.cache
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\obj\Debug\DocShare.csproj.CopyComplete
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\obj\Debug\DocShare.dll
+C:\Users\Deep Nayak\OneDrive\Desktop\DocShare (4)\DocShare\DocShare\obj\Debug\DocShare.pdb
