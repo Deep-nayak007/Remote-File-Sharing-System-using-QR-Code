@@ -1,0 +1,7 @@
+Counts:-
+1)total folder.
+2)total files.
+3)total qr.
+4)total scan.
+5)total block.
+6)incomplete.

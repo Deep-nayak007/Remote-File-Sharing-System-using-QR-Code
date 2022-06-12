@@ -1,0 +1,126 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="DocShare.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="assets/style.css" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        .showDiv {
+            display: block !important;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div>
+            <div class="navbar w-full h-14 justify-between text-white px-4 flex items-center navbar">
+                <p class="text-lg font-bold"><a href="dashboard.aspx">DocShare System</a></p>
+                <div class="relative flex cursor-pointer">
+                    <div class="w-9 h-9 rounded-full">
+                        <img src="profile.676226c382d60e33b08b.png" class="rounded-full" alt="" />
+                    </div>
+                    <div class="ml-3">
+                        <p class="font-bold text-md">User</p>
+                        <p class="text-sm">Admin</p>
+                    </div>
+                    <div class="ml-3" onclick="show()">
+                        <img src="https://img.icons8.com/fluency-systems-filled/20/ffffff/expand-arrow.png" />
+                    </div>
+                </div>
+                <div class="hidden" id="logOut" style="position: absolute; left: 88%; top: 7%">
+                    <div onclick="LogOut()" class="w-full cursor-pointer h-full rounded-sm shadow-sm text-black flex items-center bg-white" style="padding: 10px 50px">
+                        <img src="https://img.icons8.com/fluency-systems-filled/20/000000/exit.png" class="mr-2" />
+                        <p>Logout</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="flex">
+                <div class="z-10" style="width: 13rem; height: calc(100vh - 3.5rem); background: rgb(246, 247, 251); overflow-y: hidden; box-shadow: rgba(161, 161, 161, 0.75) 3px 0px 7px 0px">
+                    <div class="w-full bg-white h-full py-1 overflow-y-auto" style="height: calc(100vh - 10rem)">
+                        <div class="menuList w-full text-sm">
+                            <div class="EachItem_active my-4 flex px-6 py-2 cursor-pointer items-center">
+                                <img src="https://img.icons8.com/fluency-systems-regular/20/474f58/home.png" />
+                                <p class="ml-2"><a href="dashboard.aspx">Dashboard</a></p>
+                            </div>
+                            <div class="EachItem my-4 flex px-6 py-2 cursor-pointer items-center">
+                                <img src="https://img.icons8.com/fluency-systems-filled/20/474f58/schoolboy-at-a-desk.png" />
+                                <p class="ml-2"><a href="History.aspx">FileShare Logs</a></p>
+                            </div>
+                            <div class="EachItem my-4 flex px-6 py-2 cursor-pointer items-center">
+                                <img src="https://img.icons8.com/fluency-systems-regular/20/474f58/chart-bar.png" />
+                                <p class="ml-2"><a href="folder_group.aspx">Folders</a></p>
+                            </div>
+                            <div class="EachItem my-4 flex px-6 py-2 cursor-pointer items-center">
+                                <img src="https://img.icons8.com/fluency-systems-filled/20/474f58/elective.png" />
+                                <p class="ml-2"><a href="cameraModule.aspx">QR Code Scanner</a></p>
+                            </div>
+                            <%--<div class="EachItem my-4 flex px-6 py-2 cursor-pointer items-center">
+                                <img src="https://img.icons8.com/fluency-systems-filled/20/474f58/training.png" />
+                                <p class="ml-2">Generate QR Code</p>
+                            </div>
+                            <div class="EachItem my-4 flex px-6 py-2 cursor-pointer items-center">
+                                <img src="https://img.icons8.com/fluency-systems-regular/20/474f58/open-envelope.png" />
+                                <p class="ml-2">Scan QR Codes</p>
+                            </div>
+
+                            <div class="EachItem my-4 flex px-6 py-2 cursor-pointer items-center">
+                                <img src="https://img.icons8.com/fluency-systems-regular/20/474f58/appointment-reminders--v1.png" />
+                                <p class="ml-2">Scan Notifications</p>
+                            </div>
+                            <div class="EachItem my-4 flex px-6 py-2 cursor-pointer items-center">
+                                <img src="https://img.icons8.com/fluency-systems-regular/20/474f58/group-background-selected.png" />
+                                <p class="ml-2">Files Directory</p>
+                            </div>
+                            <div class="EachItem my-4 flex px-6 py-2 cursor-pointer items-center">
+                                <img src="https://img.icons8.com/fluency-systems-regular/20/474f58/settings.png" />
+                                <p class="ml-2">Settings</p>
+                            </div>--%>
+                        </div>
+                    </div>
+                </div>
+                <form id="form1" runat="server" class="w-full">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script>
+        function show() {
+            $("#logOut").toggleClass("showDiv");
+        }
+
+        function LogOut() {
+            $.ajax({
+                type: "POST",
+                url: "dashboard.aspx/LogOut",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: OnSuccess,
+                failure: function (response) {
+                    alert(response.data);
+                }
+            });
+        }
+
+        function OnSuccess() {
+            window.location = "login.aspx";
+        }
+    </script>
+</body>
+</html>
